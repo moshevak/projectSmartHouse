@@ -1,0 +1,22 @@
+#addButton{
+    margin-top: 35%;
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    background-color: aqua;
+    font-size: 70px;
+    
+   
+}
+#enterRoom{
+  
+    height: 80px;
+    width: 80px;
+ 
+}
+#div-rooms{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 90px;
+  margin-right: 90px;  
+}

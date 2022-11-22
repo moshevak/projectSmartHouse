@@ -1,0 +1,28 @@
+#add{
+    border: solid;
+    height: 250px;
+    width: 375px;
+    margin: auto;
+    
+}
+#kindOfRoom{
+    margin-top: 10%;
+    height: 30px;
+    width: 150px;
+}
+input{
+    margin-top: 7%;
+}
+#colorRoom{
+    width: 180px;
+}
+button{
+    margin-top: 7%;
+}
+#div-Main{
+    border: 2px black solid;
+    height:500px; 
+    width:500px;
+    margin:auto;
+    margin-top:5%;
+}
